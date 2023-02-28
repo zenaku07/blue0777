@@ -54,9 +54,9 @@
 # How to reach me:
 [![My WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/https://t.me/Sync_0)
-[![My Replit](https://replit.com/talk/share/Badges/131969)](https://replit.com/@blue0777)
 [![MY Instagram](https://img.shields.io/badge/instagram-FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=)](https://instagram.com/soham_07778/)
-[![MY Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-sankpal-204a01265/)<br>
+[![MY Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-sankpal-204a01265/)
+[![MY Replit](https://img.shields.io/badge/replit-0077B5?style=for-the-badge&logo=replit&logoColor=orange)](https://replit.com/@blue0777)<br>
 
 
 
