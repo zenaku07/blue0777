@@ -19,7 +19,7 @@
 -  A passionate developer from India.
 -  Currently a second year Computer Engineering student.
 -  Trying my best to become best.
--  Passionate about making open source projects that people would link to use.
+-  Passionate about making open source projects that people would like to use.
 
 
 <br>
