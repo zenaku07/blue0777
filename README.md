@@ -37,9 +37,9 @@
 
 ### Recent Project:
 
-- [Telegram AI-Baased Chat-Bot](https://github.com/blue0777/Telegram-Chat-bot)
+- [Telegram AI-Baased Chat-Bot](https://github.com/blue0777/Telegram-chatbot)
 <p align="left">
-   <a href="https://github.com/blue0777/Telegram-Chat-bot"> 
+   <a href="https://github.com/blue0777/Telegram-chatbot"> 
 </p>
 
    
