@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/blue0777">
-    <img src="https://github.com/blue0777/blue0777/blob/main/wallpaperflare.com_wallpaper.jpg" width="720"> </a>
+    <img src="https://github.com/blue0777/blue0777/blob/main/wallpaperflare.com_wallpaper.jpg" width="480"> </a>
     </p>
 
 
